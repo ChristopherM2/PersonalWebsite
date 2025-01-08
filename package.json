@@ -1,7 +1,7 @@
 {
   "name": "weeeeb",
-  "homepage": "https://ChristopherM2.github.io/PersonalWebsite",
-  "private": true,
+  "homepage": "https://christopherm2.github.io/",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
