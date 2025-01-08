@@ -4,8 +4,7 @@ function Projects() {
         <>
             <h1>Projects</h1>
             <p>
-                This is a simple about me page. I am a software developer and I love
-                coding.
+                Hello There! Please check out my projects listed below:
             </p>
         </>
     );
