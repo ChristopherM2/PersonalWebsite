@@ -1,1 +1,0 @@
-This branch consists of the compiled code which will then be hosted on a webserver, originally Github Pages, now my custom domain of https://chrism24747.com which is automatically deployed using webhooks
