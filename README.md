@@ -1,3 +1,5 @@
+These are the source files for my personal website,, which can be found at https://chrism24747.com
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
