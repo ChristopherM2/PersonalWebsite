@@ -1,13 +1,14 @@
-about.js
-function about() {
-  return (
-    <>
-      <h1>Home</h1>
-      <p>
-        This is a simple about me page. I am a software developer and I love
-        coding. I am currently learning React and I am enjoying it.
-      </p>
-    </>
-  );
+import React from 'react';
+import './Home.css';
+
+function Home() {
+    return (
+        <div className="home-container">
+            <h1>Welcome to my website!</h1>
+
+            <p> Please feel free to navigate the website using the navigation links at the top!</p>
+        </div>
+    );
 }
-export default about;
+
+export default Home;

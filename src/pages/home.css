@@ -1,0 +1,23 @@
+.home-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: rgba(255, 255, 255, 0); /* Transparent background */
+    border: 2px solid #ffffff; /* White border */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.home-container h1 {
+    text-align: center;
+    margin-bottom: 1rem;
+    color: #ffffff;
+}
+
+.home-container p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+    color: #ffffff;
+}
